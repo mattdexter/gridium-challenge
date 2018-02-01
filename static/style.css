@@ -1,0 +1,28 @@
+.table-title {
+  text-align: center;
+  margin: 15px 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+.table-author {
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: 'Lato', sans-serif;
+}
+
+.meter-table {
+  margin: 0 auto;
+  width: 65%;
+}
+
+.meter-table th {
+  background-color: #e6f2ff;
+}
+
+.meter-table thead th:first-child {
+  background-color: #ffffff;
+}
+
+.meter-table th, td {
+  text-align: center;
+}
